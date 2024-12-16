@@ -1,4 +1,4 @@
-Jake Dahlgren | Software Engineer | Software Developer
+Jake Dahlgren | Software Engineer @ Gierd Inc. 
 
 📍 Boise, ID | 📞 208-841-8260 | 📧 Jake.DahlgrenDev@gmail.com
 
