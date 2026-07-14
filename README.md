@@ -1,21 +1,69 @@
-Jake Dahlgren | Software Engineer @ Gierd Inc. 
+# Hi, I'm Jake Dahlgren 👋
 
-📍 Boise, ID | 208-841-8260 | Jake.DahlgrenDev@gmail.com
+**Full Stack Software Engineer** building SaaS products, developer tooling, and AI-powered engineering workflows.
 
-<a href="https://www.linkedin.com/in/jldahlgren/">
+📍 Boise, Idaho
 
-  </a>
+- 💼 Software Engineer @ Gierd
+- 🛠 Ruby on Rails • Hotwire • PostgreSQL • JavaScript • TypeScript • React • Tailwind CSS
+- 🤖 Building AI Engineering Team — an open-source multi-agent software engineering framework for Claude Code
+- 🌱 Always learning, building, and contributing to open source
 
-Frontend-focused Software Engineer with a fine arts background and a genuine eye for design detail. I build in Rails, Hotwire, Turbo, Stimulus, and Tailwind CSS — and I care as much about how something feels to use as how it's built.
-Before tech, I spent years fabricating custom prosthetics and orthotics. Every device was a physical UI/UX problem: does this feel right, move naturally, and hold up under the demands of someone's daily life? That lens never left me.
+---
 
-What I'm Working On
-I'm a Software Engineer at Gierd, where I've been building a data visualization platform for ecommerce clients since day one of the Rails application. Over the last 2+ years I've watched the engineering team scale from 3–4 people to 20+, and I've grown right alongside it.
-Some of what I've shipped:
+## About Me
 
-- Co-built a fully custom internal design system and component library from scratch
-- Led the migration from Tailwind CSS v3 → v4, establishing a semantic color system across the codebase
-- Built data-heavy SaaS interfaces: financial dashboards, P&L tables, SKU profitability views, reconciliation flows
-- Integrated Hotwire Spark for live UI updates and built reusable agent skills to streamline team workflows with AI
+I'm a software engineer who enjoys building products from the database all the way to the user interface.
 
-I'm always open to learn new things and collaborate.
+My background in Fine Arts and custom prosthetics gives me a different perspective on software engineering. Before writing code, I spent six years designing and fabricating prosthetic and orthotic devices where precision, usability, and craftsmanship directly affected someone's everyday life. That same attention to detail now drives how I design software.
+
+I enjoy building scalable backend systems, polished user interfaces, developer tooling, and AI-assisted engineering workflows that help teams ship software faster.
+
+---
+
+## What I'm Working On
+
+### Gierd
+
+As a Software Engineer at Gierd, I've helped build and scale a Rails SaaS platform for ecommerce analytics and financial reporting.
+
+Some of my work includes:
+
+- Building full-stack features across Rails, Hotwire, PostgreSQL, and Tailwind CSS
+- Architecting a reusable component design system used throughout the application
+- Leading the migration from Tailwind CSS v3 to v4 with semantic design tokens
+- Building automated testing with Minitest and Playwright
+- Creating reusable AI workflows that automate code reviews and engineering tasks
+
+---
+
+## Open Source
+
+### AI Engineering Team
+
+An open-source multi-agent framework that transforms Claude Code into a collaborative software engineering organization.
+
+Highlights:
+
+- Specialized engineering agents
+- Persistent shared memory
+- Human-in-the-loop orchestration
+- One-command installer
+- GitHub Actions validation
+- Modular, extensible architecture
+
+---
+
+## Featured Projects
+
+- 🚀 AI Engineering Team
+- 🎙 Vozey — Podcast production SaaS
+- 📊 Gierd UI Components
+- ⚙️ Rails tooling & developer automation
+
+---
+
+## Connect
+
+- <a href="https://www.linkedin.com/in/jldahlgren/">LinkedIn</a>
+- Email: Jake.Dahlgrendev@gmail.com
