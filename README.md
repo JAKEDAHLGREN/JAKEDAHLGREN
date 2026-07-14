@@ -12,7 +12,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+- 💼 Software Engineer @ Gierd
+
+- 🛠 Ruby on Rails • Hotwire • PostgreSQL • JavaScript • TypeScript • React • Tailwind CSS
+
 - 🤖 Building AI Engineering Team — an open-source multi-agent software engineering framework for Claude Code
+
 - 🌱 Always learning, building, and contributing to open source
 
 ---
