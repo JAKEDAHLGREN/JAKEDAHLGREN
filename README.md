@@ -4,8 +4,14 @@
 
 📍 Boise, Idaho
 
-- 💼 Software Engineer @ Gierd
-- 🛠 Ruby on Rails • Hotwire • PostgreSQL • JavaScript • TypeScript • React • Tailwind CSS
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire-FF5F1F?logo=hotwire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 - 🤖 Building AI Engineering Team — an open-source multi-agent software engineering framework for Claude Code
 - 🌱 Always learning, building, and contributing to open source
 
